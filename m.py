@@ -10,9 +10,9 @@ from keep_alive import keep_alive
 keep_alive()
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('TOKEM')
+bot = telebot.TeleBot('7290381820:AAEFuRT8K36ACFNNtTnR3r4ElQHYR1WkllQ')
 # Admin user IDs
-admin_id = {"5588464519"}
+admin_id = {"749905314"}
 
 # Files for data storage
 USER_FILE = "users.json"
